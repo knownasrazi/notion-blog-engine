@@ -1,30 +1,34 @@
-﻿<div align="center">
+<div align="center">
 
-# notion-blog-engine
-
-**Write in Notion, publish in cream.**
-
-![license](https://img.shields.io/github/license/knownasrazi/notion-blog-engine?style=flat-square&color=ebe7e0&label=license)
-![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square&label=version)
-![cream](https://img.shields.io/badge/cream-aesthetic-ede9e3?style=flat-square&label=style)
-
-Notion as CMS blog engine - clean reading, SEO, and incremental revalidation.
+![license](https://img.shields.io/github/license/knownasrazi/notion-blog-engine?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Next.js%20%2B%20Notion%20API-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 </div>
 
 ---
 
-## Preview
+# notion-blog-engine
 
-> Write in Notion, publish in cream. - built for vibe coders and web developers who ship.
+> Notion as CMS blog engine - clean reading, SEO, and incremental revalidation.
+
+**Write in Notion, publish in cream.** — built for vibe coders who ship.
+
+---
+
+## Manifesto
+
+Cream over chrome. Stone over shadow. This is a tool that gets out of your way.
+
+> "Notion as CMS blog engine - clean reading, SEO, and incremental revalidation."
+
+No onboarding. No dashboard. Just open and go.
 
 ## Stack
 
-- Vite + React + TypeScript
-- Tailwind CSS (cream palette)
-- Biome for lint and format
+- Next.js + Notion API
+- Cream tokens: #fdfcfa / #ebe7e0 / #1a1a1a
+- No tracking, no analytics by default
 
-## Get started
+## Quick start
 
 ```bash
 git clone https://github.com/knownasrazi/notion-blog-engine.git
@@ -32,27 +36,7 @@ cd notion-blog-engine
 bun install
 bun run dev
 ```
-notion-blog-engine/
-  src/
-    App.tsx      # app shell
-    index.css    # cream tokens
-  index.html
-  vite.config.ts
-  package.json
-```
-
-## Cream tokens
-
-Cream, stone, and ink - low contrast, high taste.
 
 ## License
 
-[MIT](./LICENSE) + [Razi](https://github.com/knownasrazi)
-
----
-
-<div align="center">
-
-**notion-blog-engine** - Notion as CMS blog engine - clean reading, SEO, and incremental revalidation.
-
-</div>
+MIT — [Razi](https://github.com/knownasrazi)
