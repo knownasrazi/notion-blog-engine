@@ -5,6 +5,17 @@
 </div>
 
 ---
+## Demo
+
+![Demo](./public/demo.svg)
+
+**Live:** https://knownasrazi.github.io/notion-blog-engine/
+
+> Screenshot is a placeholder — Pages deploys on push to `main`.
+
+---
+
+
 
 # notion-blog-engine
 
