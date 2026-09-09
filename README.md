@@ -10,13 +10,13 @@
 
 > Notion as CMS blog engine - clean reading, SEO, and incremental revalidation.
 
-**Write in Notion, publish in cream.** — built for vibe coders who ship.
+**Write in Notion, publish in clean.** — built for vibe coders who ship.
 
 ---
 
 ## Manifesto
 
-Cream over chrome. Stone over shadow. This is a tool that gets out of your way.
+Clean over chrome. Stone over shadow. This is a tool that gets out of your way.
 
 > "Notion as CMS blog engine - clean reading, SEO, and incremental revalidation."
 
@@ -25,7 +25,7 @@ No onboarding. No dashboard. Just open and go.
 ## Stack
 
 - Next.js + Notion API
-- Cream tokens: #fdfcfa / #ebe7e0 / #1a1a1a
+- Clean tokens: #fdfcfa / #ebe7e0 / #1a1a1a
 - No tracking, no analytics by default
 
 ## Quick start
